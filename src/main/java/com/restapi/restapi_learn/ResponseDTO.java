@@ -1,10 +1,10 @@
 package com.restapi.restapi_learn;
 
-public class Response {
+public class ResponseDTO {
     private String message;
     private long timestamp;
 
-    public Response(String message, long timestamp){
+    public ResponseDTO(String message, long timestamp){
         this.message = message;
         this.timestamp = timestamp;
         // 서버 내부에서 의도적으로 만들어서 응답

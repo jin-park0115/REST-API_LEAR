@@ -1,6 +1,6 @@
 package com.restapi.restapi_learn;
 
-public class Request {
+public class RequestDTO {
     private String message; // 캡슐화, 외부에서 마음대로 바꾸지 못하게함.
 
     public String getMessage(){
