@@ -1,10 +1,12 @@
+package com.restapi.restapi_learn;
+
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class HellloController {
     @GetMapping("/hello")
-    public String hell() {
+    public String hello() {
         return "hello spring";
     }
 }
