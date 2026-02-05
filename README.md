@@ -23,3 +23,7 @@ DTO 없이 하면 생기는 문제: DB Entity를 그대로 외부에 노출한�
 Request & Response 차이
 생성 주체가 RequestDTO는 클라이언트, ResponseDTO는 서버
 목적은 입력 = RequestDTO, 출력 = ResponseDTO
+
+---
+Postman으로 해본 결과
+<img width="485" height="605" alt="Image" src="https://github.com/user-attachments/assets/e4f35859-eabc-4cc2-971b-838537184ba7" />
