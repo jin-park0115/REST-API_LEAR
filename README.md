@@ -27,3 +27,5 @@ Request & Response 차이
 ---
 Postman으로 해본 결과
 <img width="485" height="605" alt="Image" src="https://github.com/user-attachments/assets/e4f35859-eabc-4cc2-971b-838537184ba7" />
+
+<img width="507" height="563" alt="Image" src="https://github.com/user-attachments/assets/74f972f7-9708-4778-ae61-6170b45d65cf" />
